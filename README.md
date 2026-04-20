@@ -52,7 +52,7 @@ Many individuals, students, and working professionals struggle to find healthy, 
    Navigate to the local URL (usually `http://localhost:5173`) to view the application.
 
 ## 🎥 Demo Video (Mandatory)
-*(Add a link to the 3-5 minute demo video explaining the problem, features, and tech decisions here)*
+video link : https://drive.google.com/file/d/1yNKCaAU1IGEjmHfhHFiyLlv0YMwQlfuk/view?usp=sharing
 
 ## 🌐 Live Deployment
 *(Add a link to your deployed Vercel / Netlify application here)*
